@@ -8,6 +8,7 @@
 
 ## Layer Zero & Axelar
 * Messaging layer
+* https://testnet.axelarscan.io/gmp/0x5ca8e7e00becf50e6755b6104ed7b4e857c37e15bd0d687ca1820ddde8f915fe:11
 
 ## Inspiration
 
