@@ -105,14 +105,7 @@ The `Bankist` folder holds and example of end-user applications that can be buil
 ├── Backend
 │   ├── services
 │   └── tsconfig.json
-├── Bankist
-│   ├── bank-chekout
-│   └── kelboards
-├── Front-end
-│   ├── omnipe-app
-│   └── omnipe-landing-page
-├── README.md
-├── contracts
+   ├── contracts
 │   ├── FujiDeployArgs.js
 │   ├── MumbaiDeployArgs.js
 │   ├── README.md
@@ -131,6 +124,13 @@ The `Bankist` folder holds and example of end-user applications that can be buil
 │   ├── test
 │   ├── verify.sh
 │   └── yarn.lock
+├── Front-end
+│   ├── omnipe-app
+│   |── omnipe-landing-page
+|   └──bank-chekout
+│   └── kelboards
+├── README.md
+
 └── images
 ├── omniPe.png
 └── txanat.png
