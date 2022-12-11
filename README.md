@@ -6,6 +6,9 @@
 
 </h1>
 
+## Layer Zero & Axelar
+* Messaging layer
+
 ## Inspiration
 
 Payments are the most fundamental thing in everyday life, almost every transaction with value is a payment. Over the years there has been an evolution in these payment systems to remove the friction when doing payments. With companies such as Visa and Mastercard taking charge best payment processors in the world they all face one problem they are non-censorship resistant yet they are a major backbone of payments but...
